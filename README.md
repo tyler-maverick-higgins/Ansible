@@ -1,2 +1,16 @@
 # Ansible
-Infrastructure automation using Ansible playbooks and reusable roles.
+
+Infrastructure automation for Linux and networking.
+
+## Includes
+
+- Playbooks
+- Roles
+- Inventories
+- Templates
+
+## Goals
+
+- Repeatability
+- Security
+- Standardization
